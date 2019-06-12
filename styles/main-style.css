@@ -1,0 +1,12 @@
+.card-img-top{
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    width: auto;
+}
+.table{
+    font-size: 10px;
+}
+.table td, .table th {
+    padding: 0.3rem;
+}

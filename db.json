@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": 85336,
+      "name": "TOR",
+      "category": "Fantasy",
+      "production": "NY Times",
+      "productionAddres": "12.02.2005",
+      "productionPhone": "USA",
+      "productionDate": "055-555-555-5",
+      "writer": "Lance Henderson",
+      "photos": "https://images-na.ssl-images-amazon.com/images/I/51Dd%2BpjxfOL.jpg"
+    },
+    {
+      "id": 2,
+      "name": "New book edit",
+      "category": "Education edit",
+      "production": "production name edit",
+      "productionAddres": "adres production edit",
+      "productionPhone": "093457613",
+      "productionDate": "2019-06-07 edit",
+      "writer": "author edit",
+      "photos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ehosTsmlDMj-kKcCBEeP45HJI2hVtZ38FdrIrpQfwR4Dgi_f"
+    }
+  ]
+}

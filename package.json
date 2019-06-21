@@ -4,8 +4,9 @@
   "description": "",
   "main": "scripts/script.js",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
-    "bootstrap": "^4.3.1"
+    "json-server": "^0.15.0"
   },
   "devDependencies": {},
   "scripts": {

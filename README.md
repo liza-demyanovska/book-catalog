@@ -10,7 +10,7 @@
 Book list with the ability to:
 - add new book,
 - remove book,
-- edit boo,
+- edit book,
 - filter by title,
 - sort book list,
 

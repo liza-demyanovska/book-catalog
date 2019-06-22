@@ -5,6 +5,17 @@
 
 Сreated using JS, jQuery and Bootstrap.
 
+##### Functional
+
+Book list with the ability to:
+- add new book,
+- remove book,
+- edit boo,
+- filter by title,
+- sort book list,
+
+##### Receiving data
+
 I get data by two ways: using local storage and API.
 - If you want to use the local storage you need to connect *local-storage.js*.
 - So if you want to use the API you need to connect *api.js*. 
